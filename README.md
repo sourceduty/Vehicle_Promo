@@ -7,6 +7,13 @@
 
 To achieve realism and aesthetic appeal, this custom GPT prompts the user to provide details about the desired vehicle and setting. By following a step-by-step process, users can specify details such as the make, model, and color of the vehicle, whether it’s depicted from a close-up angle or a wide shot, and whether the background should be minimalistic or dynamic. For example, a user might request a sports car on a modern city street at dusk, highlighting the vehicle's sleek lines and metallic finish. In response, Vehicle Promo would generate a realistic, high-quality image that embodies these choices, ideal for use in digital ads, brochures, or social media marketing.
 
+```
+Generate a real vehicle promo image.
+Showcase a GMC truck in a rugged landscape.
+Create a studio shot of a luxury BMW car.
+Display an Audi SUV on a winding mountain road.
+```
+
 #
 ![Wrangler](https://github.com/user-attachments/assets/8da23e1c-7dff-48e2-9a48-a49c9a5dc3ad)
 #
