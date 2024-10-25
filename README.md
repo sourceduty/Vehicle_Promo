@@ -8,6 +8,9 @@
 To achieve realism and aesthetic appeal, this custom GPT prompts the user to provide details about the desired vehicle and setting. By following a step-by-step process, users can specify details such as the make, model, and color of the vehicle, whether it’s depicted from a close-up angle or a wide shot, and whether the background should be minimalistic or dynamic. For example, a user might request a sports car on a modern city street at dusk, highlighting the vehicle's sleek lines and metallic finish. In response, Vehicle Promo would generate a realistic, high-quality image that embodies these choices, ideal for use in digital ads, brochures, or social media marketing.
 
 #
+![Promo](https://github.com/user-attachments/assets/f52efd00-ca2a-4298-98a5-15d0f514e447)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
