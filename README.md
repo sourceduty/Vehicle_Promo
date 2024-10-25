@@ -10,7 +10,7 @@ To achieve realism and aesthetic appeal, this custom GPT prompts the user to pro
 #
 ### Related Links
 
-[ChatGPt](chttps://github.com/sourceduty/ChatGPT)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Car Design](https://github.com/sourceduty/Car_Design)
 <br>
