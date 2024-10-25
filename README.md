@@ -1,6 +1,6 @@
 ![Promotion](https://github.com/user-attachments/assets/9e258210-6a20-4a19-8b7f-a61e31c84d2b)
 
-> Create promotional vehicle images used DALL-E 3.
+> Create promotional vehicle images using DALL-E 3.
 #
 
 [Vehicle Promo](https://chatgpt.com/g/g-MSvF1uTgM-vehicle-promo) specializes in creating high-quality promotional images of vehicles tailored for advertising and marketing use. It can generate images of various vehicles, such as cars, trucks, SUVs, motorcycles, or even specialized vehicles, in a variety of settings. The main goal is to produce polished, visually compelling images that highlight the vehicle's details and overall design. Users can specify elements like vehicle type, color, angle, and background setting, such as an urban street, scenic landscape, or a sleek studio environment, to ensure the image aligns perfectly with their marketing vision. For instance, if a user wants an SUV shown on a rugged mountain trail with realistic lighting, this GPT can generate an image capturing just that.
