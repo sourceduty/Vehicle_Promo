@@ -13,6 +13,10 @@ To achieve realism and aesthetic appeal, this custom GPT prompts the user to pro
 [ChatGPt](chttps://github.com/sourceduty/ChatGPT)
 <br>
 [Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
+<br>
+[Vehicle Roast](https://github.com/sourceduty/Vehicle_Roast)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
